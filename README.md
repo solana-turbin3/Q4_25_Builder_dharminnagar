@@ -22,7 +22,7 @@ This repository serves as my Proof of Work (PoW) documenting my progress and pro
 ### Capstone: Permissionless F1 Prediction Market
 A decentralized permissionless prediction market for Formula 1 races built on Solana. This capstone project demonstrates advanced AMM logic and a telegram bot(https://t.me/flew_f1_bot).
 
-📁 [View Project](./capstone/flew-f1-prediction-market)
+📁 [View Project](https://github.com/dharminnagar/flew)
 
 ## Connect with Me
 
